@@ -1,4 +1,4 @@
-# Differential_Expression_Analysis 
+[# Differential_Expression_Analysis 
 # Differential Expression & Abundance Analysis — A Comprehensive Reference
 
 > A structured guide to foundational methods, statistical models, data types, and key references for mastering differential analysis in genomics, epigenomics, and microbiomics.
@@ -386,3 +386,4 @@ What is your data type?
 ---
 
 *Last updated: June 2026 | Compiled for mastering differential analysis across genomic data modalities.*
+](http://bioinformatics.sdstate.edu/go/)
